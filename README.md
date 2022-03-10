@@ -1,5 +1,7 @@
 # variant_fsm
 
+Simple VS2022 (!) solution showcasing a finite state machine using `std::variant` and the visitor pattern.
+
 C++ videos I watched to help understand the visitor pattern for this state machine:
 - https://youtu.be/W-xTpqj31mI
 - https://youtu.be/3wm5QzdddYc
